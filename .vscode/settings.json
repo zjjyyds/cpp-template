@@ -1,0 +1,8 @@
+{
+  "cmake.useCMakePresets": "never",
+  "cmake.configureOnOpen": true,
+  "cmake.buildBeforeRun": true,
+  "cmake.setBuildTargetSameAsLaunchTarget": true,
+  "cmake.buildDirectory": "${workspaceFolder}/out/build/${buildKit}",
+  "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+}
